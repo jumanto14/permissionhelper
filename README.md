@@ -1,6 +1,6 @@
 # PermissionHelper
 
-[![](https://jitpack.io/v/jumanto14/loghelper.svg)](https://jitpack.io/#jumanto14/loghelper)
+[![](https://jitpack.io/v/jumanto14/permissionhelper.svg)](https://jitpack.io/#jumanto14/permissionhelper)
 
 A clean, lightweight, and professional Android runtime permission helper written in Kotlin.  
 Built for modern Android development using Activity Result API.
